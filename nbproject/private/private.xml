@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Model/Data.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Persistencia/Serializador.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Model/UsuarioDaBiblioteca.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Control/ControladorGeral.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/View/MostradorDeMensagens.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Persistencia/PersisteObjeto.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Autenticacao/Autenticador.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Autenticacao/Usuario.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Model/Biblioteca.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/View/TelaUsuarioLogado.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/View/TelaLogin.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Model/Livro.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/Autenticacao/AutenticaUsuario.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/View/TelaRegistrarLivro.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/View/TelaDevolveLivro.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/View/TelaRegistroUsuario.java</file>
+            <file>file:/home/meucomputador/NetBeansProjects/Trabalho/src/trabalho/Trabalho.java</file>
+        </group>
+    </open-files>
+</project-private>
